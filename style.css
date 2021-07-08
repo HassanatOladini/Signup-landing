@@ -51,7 +51,7 @@ input:focus{
     background-color: #999B84;
 }
 
-#input-text{
+.input-text{
     padding: 5px;
     border-radius: 5px;
 }
